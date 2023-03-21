@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --dark: '#1A181B';
+    --violet: '#564D65';
+    --cyan: '#3E8989';
+    --emerald: '#2CDA9D';
+    --softWhite: '#F0F6F6';
+}
+
+body {
+    border: 2px solid red;
+    width: screen;
+    min-height: 100vh;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--dark);
+}
