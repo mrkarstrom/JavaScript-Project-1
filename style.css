@@ -39,7 +39,7 @@ main {
 
 
 
-header { 
+header {
     position: absolute;
     top: 20px;
 }
@@ -47,7 +47,7 @@ header {
 #info {
     position: absolute;
     bottom: 20px;
-    color:white;
+    color: white;
     font-size: xx-large;
     font-weight: 500;
     text-shadow: 2px 2px 2px rgb(0, 0, 0);
